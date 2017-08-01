@@ -1,4 +1,4 @@
-# DLND_Your_first_neural_network
+# DLND Your first neural network
 
 ##Overview
 
